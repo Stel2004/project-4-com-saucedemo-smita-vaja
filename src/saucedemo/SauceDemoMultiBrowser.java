@@ -12,7 +12,7 @@ import java.time.Duration;
 /**
  * Project-4 - ProjectName : com-saucedemo
  * BaseUrl = https://www.saucedemo.com/
- * 1. Setup chrome browser.
+ * 1. Setup Chrome browser.
  * 2. Open URL.
  * 3. Print the title of the page.
  * 4. Print the current url.
